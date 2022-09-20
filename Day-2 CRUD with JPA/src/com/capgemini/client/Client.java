@@ -18,7 +18,7 @@ public class Client {
 		
 	/*//create Operation
 	s.setRollno(102);
-	s.setName("rushi");
+	s.setName("shruti");
 	service.addStudent(s);*/
 		
 	/*//retrieve data
